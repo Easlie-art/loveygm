@@ -1,0 +1,12 @@
+﻿server:
+  port: 80
+wechat:
+  appId:wxad85168ed01273f3 '微信公众平台_appID'
+  secret:cda7dcb4222a348dce5cc8b00ca481a9 '微信公众平台_appsecret'
+  userId:oW4NF6qb6vCiodIjm7e75QqMMjJA '微信公众平台_微信号'
+  templateId:NoWPK7es4pXBm7JlfuzobF5lIbbw70gTsq5EQTqm4wg '微信公众平台_模板id'
+  district_id:101260701 '百度地图开放平台_城市ID'
+  ak:N5y5hAxLCWiEUjOTQo91A64kiZiy5bum '百度地图开放平台_应用AK'
+  loveDate: '2021-08-22'
+  birthday: '2001-06-25'
+  rainbowKey:0d8c1bfd122c77d4538eb6eae17bf291 '彩虹屁平台_apiKey'
